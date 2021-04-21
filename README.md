@@ -1,5 +1,5 @@
-- 👋 Hi, I’m william
-- 👀 I’m interested in C++.
+- 👋 Hi, I’m William
+- 👀 I’m interested in code bug.
 - 🌱 I’m currently learning C++, debug, English...
 - 📫 How to reach me ...
 
